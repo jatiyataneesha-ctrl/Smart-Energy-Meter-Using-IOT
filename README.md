@@ -10,6 +10,7 @@ A real-time IoT-based Smart Energy Meter built using ESP32, capable of monitorin
 
 ##  Blynk IoT Readings
 | **Parameter** | **Value** |
+
 | Voltage  | 220 V |
 | Current  | 2.5 A |
 | Power    | 550 W |
