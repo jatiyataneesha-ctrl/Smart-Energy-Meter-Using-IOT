@@ -27,7 +27,7 @@ A real-time IoT-based Smart Energy Meter built using ESP32, capable of monitorin
 ->Industrial monitoring  
 
 ## 💻 Source Code
-`main.ino`
+main.ino
 
 ---
 
