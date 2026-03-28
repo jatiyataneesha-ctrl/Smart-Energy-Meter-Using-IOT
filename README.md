@@ -12,14 +12,16 @@ A real-time IoT-based Smart Energy Meter built using ESP32, capable of monitorin
 | **Parameter** | **Value** |
 
 | Voltage  | 220 V |
+
 | Current  | 2.5 A |
+
 | Power    | 550 W |
+
 | Energy   | 0.75 kWh |
 
 ##  Project Images
 
-![Hardware](Images/Hardware.jpeg)  
-![CIRCUIT](Images/CIRCUIT.jpeg)  
+![Hardware](Images/Hardware.jpeg)    
 ![Output](Images/Output.jpeg)
 
 ##  Applications
