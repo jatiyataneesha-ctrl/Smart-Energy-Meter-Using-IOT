@@ -17,9 +17,9 @@ A real-time IoT-based Smart Energy Meter built using ESP32, capable of monitorin
 
 ##  Project Images
 
-![Hardware](images/Hardware.jpeg)  
-![CIRCUIT](images/CIRCUIT.jpeg)  
-![Output](images/Output.jpeg)
+![Hardware](Images/Hardware.jpeg)  
+![CIRCUIT](Images/CIRCUIT.jpeg)  
+![Output](Images/Output.jpeg)
 
 ##  Applications
 -> Smart homes  
